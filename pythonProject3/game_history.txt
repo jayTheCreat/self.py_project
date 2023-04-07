@@ -1,0 +1,3 @@
+won: True, number of tries: 5, secret word: broadly
+won: True, number of tries: 1, secret word: hangman
+won: False, number of tries: 6, secret word: a
