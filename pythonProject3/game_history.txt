@@ -1,0 +1,2 @@
+won: True, number of tries: 1, secret word: cat
+won: False, number of tries: 6, secret word: cat
