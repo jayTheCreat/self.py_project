@@ -1,0 +1,1 @@
+won: True, number of tries: 5, secret word: song
